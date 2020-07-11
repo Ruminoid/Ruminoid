@@ -4,3 +4,6 @@
 [submodule "HeavyWork/VisualIcon"]
 	path = HeavyWork/VisualIcon
 	url = https://github.com/HeavyWork/VisualIcon.git
+[submodule "HeavyWork/MetroRadiance"]
+	path = HeavyWork/MetroRadiance
+	url = https://github.com/HeavyWork/MetroRadiance.git
