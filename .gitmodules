@@ -1,0 +1,3 @@
+[submodule "HeavyWork/YDock"]
+	path = HeavyWork/YDock
+	url = https://github.com/HeavyWork/YDock.git
