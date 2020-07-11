@@ -1,3 +1,6 @@
 [submodule "HeavyWork/YDock"]
 	path = HeavyWork/YDock
 	url = https://github.com/HeavyWork/YDock.git
+[submodule "HeavyWork/VisualIcon"]
+	path = HeavyWork/VisualIcon
+	url = https://github.com/HeavyWork/VisualIcon.git
