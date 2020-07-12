@@ -7,3 +7,6 @@
 [submodule "HeavyWork/MetroRadiance"]
 	path = HeavyWork/MetroRadiance
 	url = https://github.com/HeavyWork/MetroRadiance.git
+[submodule "Ruminoid.Trimmer"]
+	path = Ruminoid.Trimmer
+	url = https://github.com/Ruminoid/Trimmer.git
