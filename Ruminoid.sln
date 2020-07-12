@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroRadiance.Core", "Heavy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetroRadiance", "HeavyWork\MetroRadiance\source\RetroRadiance\RetroRadiance.csproj", "{7F898B3A-DA17-4CAB-B387-5629B5FACA49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualIcon", "HeavyWork\VisualIcon\VisualIcon\VisualIcon.csproj", "{04DBBEF4-F422-4973-8EAA-11C15E09B7DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,12 @@ Global
 		{7F898B3A-DA17-4CAB-B387-5629B5FACA49}.Release RETRO|Any CPU.Build.0 = Release|Any CPU
 		{7F898B3A-DA17-4CAB-B387-5629B5FACA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F898B3A-DA17-4CAB-B387-5629B5FACA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DBBEF4-F422-4973-8EAA-11C15E09B7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DBBEF4-F422-4973-8EAA-11C15E09B7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DBBEF4-F422-4973-8EAA-11C15E09B7DE}.Release RETRO|Any CPU.ActiveCfg = Release|Any CPU
+		{04DBBEF4-F422-4973-8EAA-11C15E09B7DE}.Release RETRO|Any CPU.Build.0 = Release|Any CPU
+		{04DBBEF4-F422-4973-8EAA-11C15E09B7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DBBEF4-F422-4973-8EAA-11C15E09B7DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +84,7 @@ Global
 		{35F4CDD9-E656-48C1-96F8-77CB63480E08} = {4D65DE1C-8360-4DA5-B4E3-07691F464462}
 		{A6B0A741-5BE0-479D-B813-E65672350057} = {4D65DE1C-8360-4DA5-B4E3-07691F464462}
 		{7F898B3A-DA17-4CAB-B387-5629B5FACA49} = {4D65DE1C-8360-4DA5-B4E3-07691F464462}
+		{04DBBEF4-F422-4973-8EAA-11C15E09B7DE} = {7E1361F0-53BC-4F0A-845A-199697D1940E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {979C703A-8DBD-43C9-ADEF-F12278C28059}
