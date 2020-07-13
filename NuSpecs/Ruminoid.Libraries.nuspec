@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Ruminoid.Libraries</id>
+    <version>0.2.0</version>
+    <title>Ruminoid Libraries</title>
+    <authors>Ruminoid</authors>
+    <owners>Ruminoid</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Ruminoid/Ruminoid/blob/master/LICENSE</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://ruminoid.vbox.moe/</projectUrl>
+    <iconUrl>https://vbox.moe/Icons/Icons/HeavyWork/HeavyWork.Colored.Transparent.png</iconUrl>
+    <description>The Binary Libraries for Ruminoid.</description>
+    <summary>The Binary Libraries for Ruminoid.</summary>
+    <copyright>Copyright © Il Harper 2020</copyright>
+    <language>zh-CN</language>
+    <tags>Ruminoid</tags>
+  </metadata>
+  <files>
+    <file src="icon.png" target="icon.png" />
+  </files>
+</package>
