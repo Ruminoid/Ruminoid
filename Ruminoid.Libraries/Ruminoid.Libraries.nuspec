@@ -20,8 +20,12 @@
     <copyright>Copyright © Il Harper 2020</copyright>
     <language>zh-CN</language>
     <tags>Ruminoid</tags>
+    <contentFiles>
+        <files include="Libraries\**" buildAction="None" copyToOutput="true" flatten="false" />
+    </contentFiles>
   </metadata>
   <files>
     <file src="icon.png" target="icon.png" />
+    <file src="Libraries\**" target="content\Libraries\" />
   </files>
 </package>
