@@ -7,6 +7,7 @@
     <authors>Ruminoid</authors>
     <owners>Ruminoid</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
     <licenseUrl>https://github.com/Ruminoid/Ruminoid/blob/master/LICENSE</licenseUrl>
     <icon>icon.png</icon>
     <projectUrl>https://ruminoid.vbox.moe/</projectUrl>
