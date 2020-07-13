@@ -340,4 +340,5 @@ ASALocalRun/
 healthchecksdb
 
 # Ruminoid Nuget Packages
-!NuSpecs/*
+!Ruminoid.Libraries/*.nuspec
+Ruminoid.Libraries/Libraries/**/*
