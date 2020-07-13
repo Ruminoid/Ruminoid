@@ -11,6 +11,10 @@
     <icon>icon.png</icon>
     <projectUrl>https://ruminoid.vbox.moe/</projectUrl>
     <iconUrl>https://vbox.moe/Icons/Icons/HeavyWork/HeavyWork.Colored.Transparent.png</iconUrl>
+    <repository type="git" url="https://github.com/Ruminoid/Ruminoid.git" branch="master" commit="974d9a7aa49a3244de68051cf0b054a700f9b8fc" />
+    <packageTypes>
+        <packageType name="Dependency" />
+    </packageTypes>
     <description>The Binary Libraries for Ruminoid.</description>
     <summary>The Binary Libraries for Ruminoid.</summary>
     <copyright>Copyright © Il Harper 2020</copyright>
