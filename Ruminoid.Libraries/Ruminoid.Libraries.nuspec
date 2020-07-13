@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Ruminoid.Libraries</id>
-    <version>0.2.2</version>
+    <version>0.2.3</version>
     <title>Ruminoid Libraries</title>
     <authors>Ruminoid</authors>
     <owners>Ruminoid</owners>
@@ -21,7 +21,7 @@
     <language>zh-CN</language>
     <tags>Ruminoid</tags>
     <contentFiles>
-        <files include="**" buildAction="None" copyToOutput="true" flatten="false" />
+        <files include="**/*.*" buildAction="None" copyToOutput="true" flatten="false" />
     </contentFiles>
   </metadata>
   <files>
