@@ -10,6 +10,9 @@
 [submodule "Ruminoid.Trimmer"]
 	path = Ruminoid.Trimmer
 	url = https://github.com/Ruminoid/Trimmer.git
+[submodule "Ruminoid.Common"]
+	path = Ruminoid.Common
+	url = https://github.com/Ruminoid/Common.git
 [submodule "Ruminoid.Common.Renderer"]
 	path = Ruminoid.Common.Renderer
 	url = https://github.com/Ruminoid/Renderer.git
