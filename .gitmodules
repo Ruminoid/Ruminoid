@@ -19,3 +19,6 @@
 [submodule "Ruminoid.Common.Renderer"]
 	path = Ruminoid.Common.Renderer
 	url = https://github.com/Ruminoid/Renderer.git
+[submodule "Ruminoid.Logos"]
+	path = Ruminoid.Logos
+	url = https://github.com/Ruminoid/Logos.git
