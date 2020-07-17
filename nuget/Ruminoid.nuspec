@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Ruminoid</id>
+    <version>0.0.0.0</version>
+    <title>Ruminoid</title>
+    <authors>Il Harper</authors>
+    <owners>Il Harper</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Ruminoid/Ruminoid/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://ruminoid.vbox.moe/</projectUrl>
+    <iconUrl>https://vbox.moe/Icons/Icons/Ruminoid/Ruminoid.Colored.Transparent.ico</iconUrl>
+    <description>Subtitle editing utilities.</description>
+    <summary>Subtitle editing utilities.</summary>
+    <copyright>2020 Il Harper</copyright>
+    <language>zh-CN</language>
+    <tags>Ruminoid</tags>
+  </metadata>
+  <files>
+    <file src="..\Ruminoid.Dashboard\bin\x64\Release\**" target="lib\net48\" />
+  </files>
+</package>
