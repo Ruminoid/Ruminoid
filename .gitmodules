@@ -22,3 +22,6 @@
 [submodule "Ruminoid.Logos"]
 	path = Ruminoid.Logos
 	url = https://github.com/Ruminoid/Logos.git
+[submodule "HeavyWork/Spout.NET"]
+	path = HeavyWork/Spout.NET
+	url = https://github.com/Ruminoid/Spout.NET.git
