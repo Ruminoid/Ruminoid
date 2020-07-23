@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Spout.NET</id>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <title>Spout.NET</title>
     <authors>Il Harper</authors>
     <owners>Il Harper</owners>
@@ -22,9 +22,13 @@
       <dependency id="System.Numerics.Vectors" version="4.4.0" />
       <dependency id="System.Runtime.CompilerServices.Unsafe" version="4.5.0" />
     </dependencies>
+    <contentFiles>
+        <files include="**/*.*" buildAction="None" copyToOutput="true" flatten="false" />
+    </contentFiles>
   </metadata>
   <files>
     <file src="icon.png" target="icon.png" />
     <file src="..\HeavyWork\Spout.NET\bin\x64\Release\Spout.NET.dll" target="lib" />
+    <file src="Libraries\Spout.dll" target="contentFiles\any\any\Libraries" />
   </files>
 </package>
