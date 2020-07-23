@@ -25,6 +25,6 @@
   </metadata>
   <files>
     <file src="icon.png" target="icon.png" />
-    <file src="..\HeavyWork\Spout.NET\bin\x64\Release\*.dll" target="lib" />
+    <file src="..\HeavyWork\Spout.NET\bin\x64\Release\Spout.NET.dll" target="lib" />
   </files>
 </package>
