@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Spout.NET</id>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <title>Spout.NET</title>
     <authors>Il Harper</authors>
     <owners>Il Harper</owners>
@@ -17,6 +17,7 @@
     <dependencies>
       <dependency id="Baseclass.Contrib.Nuget.Output" version="2.4.3" />
       <dependency id="CppSharp" version="0.10.5" />
+      <dependency id="OpenGL.Net" version="0.8.4" />
       <dependency id="System.Buffers" version="4.4.0" />
       <dependency id="System.Memory" version="4.5.0" />
       <dependency id="System.Numerics.Vectors" version="4.4.0" />
@@ -28,7 +29,7 @@
   </metadata>
   <files>
     <file src="icon.png" target="icon.png" />
-    <file src="..\HeavyWork\Spout.NET\bin\x64\Release\Spout.NET.dll" target="lib" />
+    <file src="..\HeavyWork\Spout.NET\bin\x64\Release\Spout.NET.dll" target="lib\net48\" />
     <file src="Libraries\Spout.dll" target="contentFiles\any\any\Libraries" />
   </files>
 </package>
