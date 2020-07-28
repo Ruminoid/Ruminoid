@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://vbox.moe/Icons/Icons/Ruminoid/Ruminoid.Colored.Transparent.png" width="200px">
+<a href="https://update.ruminoid.world"><img src="https://vbox.moe/Icons/Icons/Ruminoid/Ruminoid.Colored.Transparent.png" width="200px"></a>
 
-<h1>Ruminoid</h1>
+<h1><a href="https://update.ruminoid.world">Ruminoid</a></h1>
 
 <p>Subtitle editing utilities.</p>
 
