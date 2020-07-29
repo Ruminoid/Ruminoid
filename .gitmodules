@@ -28,3 +28,6 @@
 [submodule "Ruminoid.LIVE"]
 	path = Ruminoid.LIVE
 	url = https://github.com/Ruminoid/LIVE.git
+[submodule "RConnect"]
+	path = RConnect
+	url = https://github.com/Ruminoid/Connect.git
