@@ -31,3 +31,6 @@
 [submodule "RConnect"]
 	path = RConnect
 	url = https://github.com/Ruminoid/Connect.git
+[submodule "HeavyWork/KeyTap"]
+	path = HeavyWork/KeyTap
+	url = https://github.com/HeavyWork/KeyTap.git
