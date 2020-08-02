@@ -34,3 +34,6 @@
 [submodule "HeavyWork/KeyTap"]
 	path = HeavyWork/KeyTap
 	url = https://github.com/HeavyWork/KeyTap.git
+[submodule "Ruminoid.Tapper"]
+	path = Ruminoid.Tapper
+	url = https://github.com/Ruminoid/Tapper.git
