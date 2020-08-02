@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruminoid.Connect.Shell", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyTap", "HeavyWork\KeyTap\KeyTap.csproj", "{4AA68C5E-E734-4CEB-A2E0-B770F555DB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruminoid.Tapper.Timer", "Ruminoid.Tapper\Ruminoid.Tapper.Timer\Ruminoid.Tapper.Timer.csproj", "{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,6 +247,18 @@ Global
 		{4AA68C5E-E734-4CEB-A2E0-B770F555DB3E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4AA68C5E-E734-4CEB-A2E0-B770F555DB3E}.Release|x64.ActiveCfg = Release|Any CPU
 		{4AA68C5E-E734-4CEB-A2E0-B770F555DB3E}.Release|x64.Build.0 = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Debug|x64.Build.0 = Debug|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release RETRO|Any CPU.ActiveCfg = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release RETRO|Any CPU.Build.0 = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release RETRO|x64.ActiveCfg = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release RETRO|x64.Build.0 = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release|x64.ActiveCfg = Release|Any CPU
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -268,6 +282,7 @@ Global
 		{4D9C3FD3-967B-4AFD-B43C-8F45C185F3AF} = {0C0F4DD4-A168-4252-8245-E2CDE0CFBB00}
 		{A29B628A-875A-4237-8ED1-718B73747941} = {C725D725-6DC3-484F-839C-851DA0C79033}
 		{4AA68C5E-E734-4CEB-A2E0-B770F555DB3E} = {7E1361F0-53BC-4F0A-845A-199697D1940E}
+		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40} = {C725D725-6DC3-484F-839C-851DA0C79033}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {979C703A-8DBD-43C9-ADEF-F12278C28059}
