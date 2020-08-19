@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyTap", "HeavyWork\KeyTap\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruminoid.Tapper.Timer", "Ruminoid.Tapper\Ruminoid.Tapper.Timer\Ruminoid.Tapper.Timer.csproj", "{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruminoid.PluginManager", "Ruminoid.PluginManager\Ruminoid.PluginManager.csproj", "{406D9222-E6C9-476F-8858-1D5D6BF0929B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,18 @@ Global
 		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release|Any CPU.ActiveCfg = Release|x64
 		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release|x64.ActiveCfg = Release|x64
 		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40}.Release|x64.Build.0 = Release|x64
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Debug|x64.Build.0 = Debug|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release RETRO|Any CPU.ActiveCfg = Release|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release RETRO|Any CPU.Build.0 = Release|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release RETRO|x64.ActiveCfg = Release|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release RETRO|x64.Build.0 = Release|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release|x64.ActiveCfg = Release|Any CPU
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -279,6 +293,7 @@ Global
 		{A29B628A-875A-4237-8ED1-718B73747941} = {C725D725-6DC3-484F-839C-851DA0C79033}
 		{4AA68C5E-E734-4CEB-A2E0-B770F555DB3E} = {7E1361F0-53BC-4F0A-845A-199697D1940E}
 		{12B09DE6-9D3C-4180-BE8D-A5DD3E8EFD40} = {C725D725-6DC3-484F-839C-851DA0C79033}
+		{406D9222-E6C9-476F-8858-1D5D6BF0929B} = {C725D725-6DC3-484F-839C-851DA0C79033}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {979C703A-8DBD-43C9-ADEF-F12278C28059}
